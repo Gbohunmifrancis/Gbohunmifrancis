@@ -1,0 +1,7 @@
+C:\Users\ISTOP\source\repos\ConsoleToWebAPI\bin\Debug\ConsoleToWebAPI.exe.config
+C:\Users\ISTOP\source\repos\ConsoleToWebAPI\bin\Debug\ConsoleToWebAPI.exe
+C:\Users\ISTOP\source\repos\ConsoleToWebAPI\bin\Debug\ConsoleToWebAPI.pdb
+C:\Users\ISTOP\source\repos\ConsoleToWebAPI\obj\Debug\ConsoleToWebAPI.csproj.AssemblyReference.cache
+C:\Users\ISTOP\source\repos\ConsoleToWebAPI\obj\Debug\ConsoleToWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\ISTOP\source\repos\ConsoleToWebAPI\obj\Debug\ConsoleToWebAPI.exe
+C:\Users\ISTOP\source\repos\ConsoleToWebAPI\obj\Debug\ConsoleToWebAPI.pdb
