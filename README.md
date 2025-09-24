@@ -27,22 +27,10 @@
 
 ### 🎯 Areas of Expertise
 
-- [cite_start]**Backend Development (.NET)**: Designing and building high-performance APIs and microservices using ASP.NET Core[cite: 8, 9].
-- [cite_start]**Software Architecture**: Implementing Clean Architecture and scalable system designs for robust applications[cite: 9, 33].
-- [cite_start]**AI & Vector Databases**: Developing advanced AI systems with Retrieval-Augmented Generation (RAG), OpenAI APIs, and Pinecone[cite: 10, 11, 31].
-- [cite_start]**Cloud & DevOps**: Deploying and managing applications on AWS; containerizing services with Docker[cite: 10, 11, 25].
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| **GlazionStudio Pottery AI** | [cite_start]Advanced AI knowledge API using RAG and vector embeddings to process intelligent queries for pottery expertise[cite: 31]. | [cite_start].NET 8, Microservices, Clean Architecture, OpenAI API, Pinecone, Docker[cite: 8, 9, 10, 11, 33]. | [View on GitHub](https://github.com/Gbohunmifrancis) |
-| **Carepulse HMS** | [cite_start]A comprehensive RESTful API for a healthcare management system with role-based JWT authentication[cite: 35, 37]. | [cite_start].NET Core, RESTful API, JWT, SQL Server[cite: 8, 9]. | [View on GitHub](https://github.com/Gbohunmifrancis) |
-| **Fox River Inmate Mgt.** | [cite_start]Centralized software solution to streamline inmate management and enhance operational efficiency for correctional staff[cite: 41]. | [cite_start].NET, C#, SQL Server[cite: 8]. | [View on GitHub](https://github.com/Gbohunmifrancis) |
-
----
+**Backend Development (.NET)**: Designing and building high-performance APIs and microservices using ASP.NET Core.
+**Software Architecture**: Implementing Clean Architecture and scalable system designs for robust applications.
+**AI & Vector Databases**: Developing advanced AI systems with Retrieval-Augmented Generation (RAG), OpenAI APIs, and Pinecone.
+**Cloud & DevOps**: Deploying and managing applications on AWS; containerizing services with Docker.
 
 ### 📈 GitHub Metrics
 
