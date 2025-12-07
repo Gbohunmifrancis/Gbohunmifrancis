@@ -1,58 +1,37 @@
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=16A085&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Francis;Backend+Developer+(.NET);AI+%26+Cloud+Specialist;Building+Scalable+Systems" alt="Typing SVG" />
-</p>
+
+  <p><strong>✨ Software Engineer specializing in scalable backend systems and intelligent, AI-driven solutions.</strong></p>
+
+  <p>
+    <a href="https://linkedin.com/in/Gbohunmifrancis"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+    <a href="https://twitter.com/Gbohunmifrancis"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+    <a href="https://francisyaw.tech"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+  </p>
+</div>
 
 ---
 
-<p align="center">
-  <strong>✨ Software Engineer specializing in building scalable backend systems and intelligent, AI-driven solutions on the .NET platform. Passionate about cloud architecture and solving complex problems with clean, efficient code.</strong>
-</p>
+### 🧐 About Me
+
+I am a .NET Developer passionate about bridging the gap between software engineering and Artificial Intelligence.
+* **Expertise:** ASP.NET Core, Clean Architecture, RAG Systems.
+* **Current Focus:** Leveraging Vector Databases and OpenAI for intelligent knowledge bases.
+* **Philosophy:** Writing code that is not just functional, but readable and scalable.
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ Languages & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=asp.net&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>
+| Languages | Frameworks | Cloud & AI |
+| :--- | :--- | :--- |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=asp.net&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) |
 
 ---
 
-### 🎯 Areas of Expertise
+### 📈 Metrics
 
-**Backend Development (.NET)**: Designing and building high-performance APIs and microservices using ASP.NET Core.
-**Software Architecture**: Implementing Clean Architecture and scalable system designs for robust applications.
-**AI & Vector Databases**: Developing advanced AI systems with Retrieval-Augmented Generation (RAG), OpenAI APIs, and Pinecone.
-**Cloud & DevOps**: Deploying and managing applications on AWS; containerizing services with Docker.
-
-### 📈 GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gbohunmifrancis&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gbohunmifrancis&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-### 🔭 Current Focus
-
-- Leveraging RAG and vector search for advanced AI knowledge bases.
-- Deepening my expertise in distributed systems and microservices architecture.
-- Contributing to open-source .NET projects.
-
----
-
-### 🤝 Let's Connect!
-
-<p align="center">
-  <a href="https://linkedin.com/in/Gbohunmifrancis"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/Gbohunmifrancis"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://francisyaw.tech"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gbohunmifrancis&show_icons=true&theme=radical&count_private=true&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gbohunmifrancis&theme=radical&hide_border=true" height="150" alt="streak graph" />
+</div>
