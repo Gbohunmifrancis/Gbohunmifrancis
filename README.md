@@ -3,15 +3,15 @@
   <p><strong> Software Engineer specializing in scalable backend systems and intelligent, AI-driven solutions.</strong></p>
 
   <p>
-    <a href="https://linkedin.com/in/Gbohunmifrancis"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-    <a href="https://twitter.com/Gbohunmifrancis"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
-    <a href="https://francisyaw.tech"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/gbohunmi-francis-4423b4399"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+    <a href="https://twitter.com/Miscyaw"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+    <a href="https://gbohunmi.dev"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/></a>
   </p>
 </div>
 
 ---
 
-### 🧐 About Me
+###  About Me
 
 I am a .NET Developer passionate about bridging the gap between software engineering and Artificial Intelligence.
 * **Expertise:** ASP.NET Core, Clean Architecture, RAG Systems.
@@ -31,6 +31,5 @@ I am a .NET Developer passionate about bridging the gap between software enginee
 ### 📈 Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gbohunmifrancis&show_icons=true&theme=radical&count_private=true&hide_border=true" height="150" alt="stats graph" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gbohunmifrancis&theme=radical&hide_border=true" height="150" alt="streak graph" />
 </div>
