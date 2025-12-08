@@ -31,5 +31,9 @@ I am a .NET Developer passionate about bridging the gap between software enginee
 ### 📈 Metrics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gbohunmifrancis&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Gbohunmifrancis&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbohunmifrancis&layout=compact&theme=radical&hide_border=true" height="150" alt="top languages" />
 </div>
+
+---
+
