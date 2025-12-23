@@ -29,5 +29,5 @@ I am a .NET Developer passionate about bridging the gap between software enginee
 ---
 
 ### 📈 Metrics
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=Gbohunmifrancis)](https://git.io/streak-stats)
+[!! [GitHub Streak](https://git-hub-streak-stats.vercel.app?user=Gbohunmifrancis)](https://git.io/streak-stats)
 
